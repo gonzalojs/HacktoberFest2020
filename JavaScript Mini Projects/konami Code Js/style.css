@@ -1,0 +1,13 @@
+.fa-a:before {
+  font-family: Arial; /* your font family here! */
+  font-weight: bold;
+  content: 'A';
+  font-size: 86px !important;
+}
+
+.fa-b:before {
+  font-family: Arial; /* your font family here! */
+  font-weight: bold;
+  content: 'B';
+  font-size: 86px !important;
+}
